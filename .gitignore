@@ -1,0 +1,17 @@
+yarn.lock
+node_modules
+frontend/node_modules
+frontend/yarn.lock
+Backend/node_modules
+Backend/yarn.lock
+database.sqlite
+production_database.sqlite
+yarn-error.log
+frontend/build
+backend/dist
+backend/node_modules
+production.database.sqlite
+backend/development.database.sqlite
+production.database copy.sqlite
+backend/development.jwt.sqlite
+backend/development.jwt2.sqlite
